@@ -7,7 +7,7 @@
 
 A comprehensive, data-driven framework for modeling flood susceptibility in the Palar River Basin (Vellore, India) using machine learning, remote sensing, and GIS.
 
-**[Live Interactive Map Demo (Link to your Felt.com map)](https://felt.com/map/your-map-link-here)**
+
 
 ---
 
@@ -141,8 +141,4 @@ The analysis identified significant assets within the "Very High" susceptibility
     ```
     This will train the model and save the `flood_susceptibility_model.pkl` file.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
