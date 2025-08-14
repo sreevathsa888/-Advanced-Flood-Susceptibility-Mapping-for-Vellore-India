@@ -15,7 +15,7 @@ This project moves beyond simple thresholding techniques by employing a **Random
 
 ![](http://googleusercontent.com/file_content/0)
 ***Figure 1: Final Flood Susceptibility Map***
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4e619221-3fe5-42ff-b527-18844cb790a4" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4e619221-3fe5-42ff-b527-18844cb790a4" />
 
 
 
@@ -37,7 +37,7 @@ The project focuses on the **Vellore District**, located in the state of Tamil N
 
 ![](http://googleusercontent.com/file_content/2)
 ***Figure 2: Location of Vellore District in Tamil Nadu***
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/79b88002-2b5b-4805-a5a6-f466e5a15beb" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/79b88002-2b5b-4805-a5a6-f466e5a15beb" />
 
 
 ---
@@ -70,7 +70,7 @@ The project workflow is divided into four main stages as shown in the flowchart 
 
 ![](http://googleusercontent.com/file_content/3)
 ***Figure 3: Methodological Workflow***
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ea2ec3b0-04ba-4598-b28c-18ece183fcc1" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ea2ec3b0-04ba-4598-b28c-18ece183fcc1" />
 
 
 ### 1. Data Acquisition & Pre-processing
@@ -84,7 +84,7 @@ Predictor variables were derived from the DEM. Key parameters like **Slope** and
 
 ![](http://googleusercontent.com/file_content/5)
 ***Figure 4: Conceptual diagram of TWI and Slope derivation from a DEM***
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/df46537a-fba0-4274-855b-e643d70b46c6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/df46537a-fba0-4274-855b-e643d70b46c6" />
 
 
 ### 3. Machine Learning (Python & Scikit-learn)
@@ -118,7 +118,7 @@ The model identified **Elevation** and **Distance from Rivers** as the most infl
 
 ![](http://googleusercontent.com/file_content/4)
 ***Figure 5: Feature Importance ranking from the Random Forest model***
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0ee14e89-2a5d-488e-98e5-740c71f89e20" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0ee14e89-2a5d-488e-98e5-740c71f89e20" />
 
 
 
