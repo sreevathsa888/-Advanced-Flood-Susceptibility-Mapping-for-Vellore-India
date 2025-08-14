@@ -1,0 +1,5 @@
+pandas
+scikit-learn==1.3.0
+joblib
+geopandas
+rasterio
