@@ -1,0 +1,14 @@
+Land_Use_Type,Area_in_High_Risk_Zone_Hectares,Percentage_of_Total_High_Risk_Area
+Cropland,1250,45.5
+Built-up Area,480,17.4
+Grassland,620,22.5
+Shrubland,300,10.9
+Bare_Sparse_Vegetation,100,3.6
+
+Name,Type,Latitude,Longitude
+Government Hospital Ambur,Hospital,12.78,78.71
+GHSS Vaniyambadi,School,12.68,78.62
+CMC Hospital Vellore Campus,Hospital,12.92,79.13
+VIT University (part of campus),University,12.97,79.16
+NH 48 Highway Segment,Primary Road,NA,NA
+SH 59 Segment,Secondary Road,NA,NA
